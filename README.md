@@ -1,4 +1,4 @@
-# Hi there! 👋
+# Welcome to My Profile! 👋
 
 I am a graduate of Automatics, Cybernetics, and Robotics from the Gdańsk University of Technology, with a strong passion for backend development and artificial intelligence. My academic background and personal interests drive me to explore innovative solutions and technologies in these fields.
 
